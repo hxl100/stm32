@@ -1,0 +1,6 @@
+# Keil 编译产物
+Listings/
+Objects/
+DebugConfig/
+build_log.txt
+*.uvguix.*
